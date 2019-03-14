@@ -1,14 +1,14 @@
 {
-  "main.css": "/security/static/css/main.cd65df6e.chunk.css",
-  "main.js": "/security/static/js/main.c663a95c.chunk.js",
-  "main.js.map": "/security/static/js/main.c663a95c.chunk.js.map",
-  "runtime~main.js": "/security/static/js/runtime~main.c0db6ace.js",
-  "runtime~main.js.map": "/security/static/js/runtime~main.c0db6ace.js.map",
-  "static/js/2.98ea75d8.chunk.js": "/security/static/js/2.98ea75d8.chunk.js",
-  "static/js/2.98ea75d8.chunk.js.map": "/security/static/js/2.98ea75d8.chunk.js.map",
-  "index.html": "/security/index.html",
-  "precache-manifest.b74936ecbd1197398548fdcbd65b02cd.js": "/security/precache-manifest.b74936ecbd1197398548fdcbd65b02cd.js",
-  "service-worker.js": "/security/service-worker.js",
-  "static/css/main.cd65df6e.chunk.css.map": "/security/static/css/main.cd65df6e.chunk.css.map",
-  "static/media/logo.svg": "/security/static/media/logo.5d5d9eef.svg"
+  "main.css": "/gube1601.github.io/static/css/main.cd65df6e.chunk.css",
+  "main.js": "/gube1601.github.io/static/js/main.dfced7bd.chunk.js",
+  "main.js.map": "/gube1601.github.io/static/js/main.dfced7bd.chunk.js.map",
+  "runtime~main.js": "/gube1601.github.io/static/js/runtime~main.31c0d438.js",
+  "runtime~main.js.map": "/gube1601.github.io/static/js/runtime~main.31c0d438.js.map",
+  "static/js/2.98ea75d8.chunk.js": "/gube1601.github.io/static/js/2.98ea75d8.chunk.js",
+  "static/js/2.98ea75d8.chunk.js.map": "/gube1601.github.io/static/js/2.98ea75d8.chunk.js.map",
+  "index.html": "/gube1601.github.io/index.html",
+  "precache-manifest.b6dc58e38749c55c4cb49bde9951abdf.js": "/gube1601.github.io/precache-manifest.b6dc58e38749c55c4cb49bde9951abdf.js",
+  "service-worker.js": "/gube1601.github.io/service-worker.js",
+  "static/css/main.cd65df6e.chunk.css.map": "/gube1601.github.io/static/css/main.cd65df6e.chunk.css.map",
+  "static/media/logo.svg": "/gube1601.github.io/static/media/logo.5d5d9eef.svg"
 }
